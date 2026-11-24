@@ -1,4 +1,4 @@
-// Plano3D v206 · guarda la app en el móvil para abrirla sin conexión.
+// Plano3D v207 · guarda la app en el móvil para abrirla sin conexión.
 // Con conexión siempre se descarga la versión más nueva (y se guarda); sin conexión se usa la guardada.
 const C='plano3d-app';
 const FILES=['./','./index.html','./manifest.webmanifest','./icon-192.png','./icon-512.png'];
