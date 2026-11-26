@@ -1,4 +1,4 @@
-PLANO3D v246 · para Netlify (funciona sin internet en el móvil)
+PLANO3D v247 · para Netlify (funciona sin internet en el móvil)
 
 1. Descomprime este zip: salen 5 archivos.
 2. En Netlify, entra en tu sitio → pestaña «Deploys» → arrastra los 5 archivos juntos (o la carpeta).
